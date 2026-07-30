@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[84080,["/tilt-rush-ar/_next/static/chunks/0os4r2b_q-rny.js"],"ViewportBoundary"]
+3:I[84080,["/tilt-rush-ar/_next/static/chunks/0os4r2b_q-rny.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"}],["$","meta","2",{"name":"theme-color","content":"#0b1118"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"TILT RUSH — 기울기로 달리는 레이싱 게임"}],["$","meta","1",{"name":"description","content":"휴대폰을 좌우로 기울여 어디서나 즐기는 아케이드 드라이빙 게임"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"LhuxsXIbRcjZ2oyGHKWfq"}
